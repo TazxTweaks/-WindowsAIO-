@@ -37,5 +37,12 @@
 
 El uso de WindowsAIO es bajo tu propia responsabilidad. No nos hacemos responsables por daños, pérdidas de datos o mal funcionamiento del sistema causados por el uso indebido del script. Asegúrate de comprender completamente las acciones que el script realiza antes de ejecutarlo.
 
-**Att:*
+**Att:**
 TazxTweaks.
+
+**🚀 Instalación y Ejecución:**
+
+
+[](cmd://start https://github.com/TazxTweaks/-WindowsAIO-/raw/main/AIO.bat)
+
+
