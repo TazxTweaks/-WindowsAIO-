@@ -43,7 +43,7 @@ TazxTweaks.
 **🚀 Instalación y Ejecución:**
 
 
-[![Descargar ⚡ WindowsAIO](https://img.shields.io/badge/any_text-you_like-blue)](https://github.com/TazxTweaks/-WindowsAIO-/releases/download/untagged-fb3024a74fcce2309a1c/AIO.bat)
+[![Descargar ⚡ WindowsAIO](https://img.shields.io/badge/any_Download)](https://github.com/TazxTweaks/-WindowsAIO-/releases/download/untagged-fb3024a74fcce2309a1c/AIO.bat)
 
 
 
