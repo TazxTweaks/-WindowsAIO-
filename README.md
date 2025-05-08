@@ -43,6 +43,8 @@ TazxTweaks.
 **🚀 Instalación y Ejecución:**
 
 
-[](cmd://start https://github.com/TazxTweaks/-WindowsAIO-/raw/main/AIO.bat)
+[![Descargar AIO.bat](https://pin.it/1HKR8oJNd)](https://github.com/TazxTweaks/-WindowsAIO-/releases/download/untagged-fb3024a74fcce2309a1c/AIO.bat)
+
+
 
 
